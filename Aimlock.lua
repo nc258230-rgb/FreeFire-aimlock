@@ -1,4 +1,4 @@
---[[  
+ff--[[  
   Free Fire MAX - Hybrid Aimlock (Touch + Mouse)  
   Features:  
   - Touchscreen drag-to-lock (Mobile)  
